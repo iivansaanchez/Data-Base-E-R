@@ -16,9 +16,13 @@ Os dejo una serie de ejercicios ordenados de menor a mayor dificultad.
 A lo largo del segundo trimestre hemos a realizado la creación de base de datos en ORACLE y MYSQL.
 Os dejo una serie de ejercicios de ambos tipos. También habra ejercicios de consultas.
 
-[Ejercicios Oracle](https://github.com/iivansaanchez/Data-Base-E-R/tree/master/ORACLE)
+[Ejercicios Creación y Modificación (Oracle)](https://github.com/iivansaanchez/Data-Base-E-R/tree/master/ORACLE)
 
-[Ejercicios MySql](https://github.com/iivansaanchez/Data-Base-E-R/tree/master/MY_SQL)
+[Ejercicios Creación y Modificación (MySql)](https://github.com/iivansaanchez/Data-Base-E-R/tree/master/MY_SQL)
+
+[Ejercicios Consultas (Oracle)](https://github.com/iivansaanchez/Data-Base-E-R/tree/master/ORACLE/CONSULTAS)
+
+[Ejercicios Consutlas (MySql)](https://github.com/iivansaanchez/Data-Base-E-R/tree/master/MY_SQL/CONSULTAS)
 
 ### En este lenguaje recogemos comandos como:
 
